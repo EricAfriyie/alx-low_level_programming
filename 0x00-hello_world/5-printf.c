@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 /**
  *
  * main - prints the phrase with proper grammar,
@@ -19,3 +17,4 @@ int main(void)
 			return (0);
 
 }
+
