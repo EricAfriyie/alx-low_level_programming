@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 /**
  * main - prints all possible combinations of two two-digit numbers
  * Return: Always 0 (Success)
@@ -9,7 +8,6 @@
 int main(void)
 {
 	int i, j;
-
 
 	for (i = 0; i < 100; i++)
 
@@ -36,5 +34,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}
 }
