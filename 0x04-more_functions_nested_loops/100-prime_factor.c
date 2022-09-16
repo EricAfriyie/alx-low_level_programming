@@ -1,6 +1,6 @@
 #include <stdio.h>
-
 #include <math.h>
+#include "main.h"
 
 
 
@@ -37,6 +37,6 @@ int main(void)
 
 	if (n > 2)
 		max = n;
-	printf(" %ld\n ", max);
+	printf("%ld\n", max);
 	return (0);
 }
