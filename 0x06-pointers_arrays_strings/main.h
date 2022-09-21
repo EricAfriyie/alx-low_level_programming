@@ -1,7 +1,5 @@
 #ifndef FILE_MAIN
-
 #define FILE_MAIN
-
 
 
 int _putchar(char c);
@@ -26,5 +24,4 @@ char *rot13(char *);
 
 void print_number(int n);
 
-
-
+#endif
